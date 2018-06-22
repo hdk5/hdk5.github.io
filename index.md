@@ -18,4 +18,4 @@ Steam: <http://steamcommunity.com/profiles/76561198020593357>
 
 osu!: <https://osu.ppy.sh/u/1287036>
 
-MAL: <https://myanimelist.net/animelist/hdk5>
+AniList: <https://anilist.co/user/hdk5/>
