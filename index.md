@@ -2,11 +2,9 @@
 
 ## About me
 
-I am a weeb code monkey from somewhere in Russia.
+Weeb-developer from Russia.
 
-I love Python and C++ (the one with smart pointers), like Java, Kotlin, C#, JavaScript (the modern one), and don't like HTML and CSS.
-
-Also, I am in love with some imaginary dragon girl from anime. She is nice and whatever.
+I am in love with some imaginary dragon girl from anime. She is nice and whatever.
 
 ## Social and other links
 
