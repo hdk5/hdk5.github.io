@@ -4,15 +4,17 @@
 
 Weeb-developer from Russia.
 
-I am in love with some imaginary dragon girl from anime. She is nice and whatever.
+My waifu is a dragon.
 
 ## Social and other links
 
 Discord: hdk5#3358
 
-Blizzard Battle.net: hdk5#2463
+Telegram: <https://t.me/hdk55>
 
 Steam: <http://steamcommunity.com/profiles/76561198020593357>
+
+Blizzard Battle.net: hdk5#2463
 
 osu!: <https://osu.ppy.sh/u/1287036>
 
