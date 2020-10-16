@@ -20,9 +20,19 @@ ID: hdk5#6879
 
 Best girl: Ansel ( ͡° ͜ʖ ͡°)
 
+### Genshin Impact
+
+Playing since launch
+
+Server: EU
+
+ID: 700354107
+
+Best girl: Fischl
+
 #### Girls' Frontline
 
-Playing since August 2020
+Had been playing since August 2020 till October 2020
 
 Server: EN
 
