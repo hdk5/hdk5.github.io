@@ -28,7 +28,7 @@ Server: EU
 
 ID: 700354107
 
-Best girl: Fischl
+Best girl: not sure yet
 
 #### Girls' Frontline
 
