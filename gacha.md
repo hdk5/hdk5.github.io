@@ -30,6 +30,16 @@ ID: 700354107
 
 Best girl: not sure yet
 
+#### Princess Connect! Re:Dive
+
+Playing since EN launch
+
+Server: EN
+
+ID: 941714961
+
+Best girl: Kyouka
+
 #### Girls' Frontline
 
 Had been playing since August 2020 till October 2020
