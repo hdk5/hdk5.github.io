@@ -40,6 +40,12 @@ ID: 941714961
 
 Best girl: Kyouka
 
+#### ブルーアーカイブ -Blue Archive-
+
+Tried to play on a JP server -> nihongo muzukashii -> waiting for global release
+
+Best girl: ヒフミ (maybe)
+
 #### Girls' Frontline
 
 Had been playing since August 2020 till October 2020
