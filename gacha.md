@@ -30,16 +30,6 @@ ID: 700354107
 
 Best girl: not sure yet
 
-#### Princess Connect! Re:Dive
-
-Playing since EN launch
-
-Server: EN
-
-ID: 941714961
-
-Best girl: Kyouka
-
 #### ブルーアーカイブ -Blue Archive-
 
 Tried to play on a JP server -> nihongo muzukashii -> waiting for global release
