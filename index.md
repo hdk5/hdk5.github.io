@@ -12,6 +12,8 @@ Discord: hdk5#3358
 
 Telegram: <https://t.me/hdk55>
 
+GitHub: <https://github.com/hdk5>
+
 Steam: <http://steamcommunity.com/profiles/76561198020593357>
 
 Blizzard Battle.net: hdk5#2463
