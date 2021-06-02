@@ -22,7 +22,7 @@ Best girl: Ansel ( ͡° ͜ʖ ͡°)
 
 #### Genshin Impact
 
-Playing since launch
+Have been playing since launch, quit in may 2021
 
 Server: EU
 
@@ -33,6 +33,8 @@ Best girl: not sure yet
 #### ブルーアーカイブ -Blue Archive-
 
 Tried to play on a JP server -> nihongo muzukashii -> waiting for global release
+
+Or not - thanks, Nexon
 
 Best girl: ヒフミ (maybe)
 
