@@ -6,6 +6,8 @@ Weeb-developer from Russia.
 
 My waifu is a dragon.
 
+Feel free to contact me, just don't forget to introduce yourself first.
+
 ## Social and other links
 
 - Discord: hdk5#3358
@@ -16,7 +18,8 @@ My waifu is a dragon.
 
 - [Steam](http://steamcommunity.com/profiles/76561198020593357)
 
-- [PSN](https://my.playstation.com/profile/hdkVS5) / [PSNProfiles](https://psnprofiles.com/hdkVS5)
+- [PSN](https://my.playstation.com/profile/hdkVS5) 
+  - [PSNProfiles](https://psnprofiles.com/hdkVS5)
 
 - Blizzard Battle.net: hdk5#2463
 
