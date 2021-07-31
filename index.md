@@ -10,7 +10,7 @@ Feel free to contact me, just don't forget to introduce yourself first.
 
 ## Social and other links
 
-- Discord: hdk5#3358
+- [Discord](https://discord.com/users/219173750980083712) (hdk5#3358)
 
 - [Telegram](https://t.me/hdk55)
 
