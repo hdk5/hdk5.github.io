@@ -1,7 +1,5 @@
 ## About me
 
-Weeb-developer from Russia.
-
 My waifu is a dragon.
 
 Feel free to contact me, just don't forget to introduce yourself first.
