@@ -16,7 +16,7 @@ Feel free to contact me, just don't forget to introduce yourself first.
 
 * <a href="https://my.playstation.com/profile/hdkVS5"><span class="iconify" data-icon="fa-brands:playstation"></span> PSN</a>
 
-  * <a href="https://psnprofiles.com/hdkVS5">PSNProfiles</a></li>
+  * <a href="https://psnprofiles.com/hdkVS5">PSNProfiles</a>
 
 * <span class="iconify" data-icon="fa-brands:battle-net"></span> Blizzard Battle.net: hdk5#2463</p>
 
@@ -24,4 +24,4 @@ Feel free to contact me, just don't forget to introduce yourself first.
 
 * <span class="iconify" data-icon="ic:baseline-casino"></span> Mobile gacha games: [listed here](/gacha)
 
-<script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
+<script src="https://code.iconify.design/2/2.1.0/iconify.min.js"></script>
