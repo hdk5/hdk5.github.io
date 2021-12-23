@@ -1,45 +1,53 @@
 ## Mobile gacha games
 
-#### Azur Lane
-
-Playing since EN launch
-
-Server: EN Aurora
-
-ID: hdk5 67724563
-
-Best girl: USS Laffey
-
 #### Arknights
 
-Playing since EN launch
+Playing since Global launch
 
-Server: EN
+Server: Global
 
 ID: hdk5#6879
 
 Best girl: Amiya
 
+#### Azur Lane
+
+Playing since Global launch
+
+Server: Global Aurora
+
+ID: hdk5 67724563
+
+Best girl: USS Laffey
+
 #### Blue Archive
 
-Playing since EN launch
+Playing since Global launch
+
+Server: Global
 
 Best girl: All of them!
 
+#### Alchemy Stars
+
+Have been playing since December 23, 2021 till January 26, 2022
+
+Server: Global
+
 #### Girls' Frontline
 
-Had been playing since August 2020 till October 2020
+Have been playing since August 2020 till October 2020
 
-Server: EN
+Server: Global
 
 ID: hdk5 1145664
 
 Best girl: M200
 
-#### Genshin Impact
-
-Let's pretend this shameful period of my life had never happened
-
 #### Fate/Grand Order
 
 No. Never.
+
+#### Genshin Impact
+
+Let's pretend this shameful period of my life had never happened
