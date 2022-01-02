@@ -18,7 +18,7 @@ Feel free to contact me, just don't forget to introduce yourself first.
 
   * <a href="https://psnprofiles.com/hdkVS5">PSNProfiles</a>
 
-* <span class="iconify" data-icon="fa-brands:battle-net"></span> Blizzard Battle.net: hdk5#2463</p>
+* <a href="https://twitter.com/i/user/306031365"><span class="iconify" data-icon="fa-brands:twitter"></span>Twitter</p></a>
 
 * <a href="https://anilist.co/user/hdk5/"><span class="iconify" data-icon="simple-icons:anilist"></span> AniList</a>
 
