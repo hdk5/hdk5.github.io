@@ -24,7 +24,7 @@ Server: Global
 
 #### Alchemy Stars
 
-Have been playing since December 23, 2021 till January 26, 2022
+Have been playing since the first half-anniversary
 
 Server: Global
 
