@@ -1,5 +1,7 @@
 ## Mobile gacha games
 
+### Current
+
 #### Arknights
 
 Playing since Global launch
@@ -22,9 +24,11 @@ Playing since Global launch
 
 Server: Global
 
+### Previous
+
 #### Alchemy Stars
 
-Have been playing since the first half-anniversary
+Have been playing for about two months since the first half-anniversary
 
 Server: Global
 
