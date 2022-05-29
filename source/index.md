@@ -1,6 +1,6 @@
 ## About me
 
-My waifu is a dragon.
+My <ruby><span style='font-family: "Source Han Sans", "源ノ角ゴシック", "Hiragino Sans", "HiraKakuProN-W3", "Hiragino Kaku Gothic ProN W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "Noto Sans", "Noto Sans CJK JP", "メイリオ", Meiryo, "游ゴシック", YuGothic, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック", "MS Gothic", sans-serif; font-size: 16px'>推し</span><rt style="font-size: 11px;">waifu</rt></ruby> is a dragon.
 
 Feel free to contact me, just don't forget to introduce yourself first.
 
