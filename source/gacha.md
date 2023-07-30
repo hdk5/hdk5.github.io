@@ -2,6 +2,14 @@
 
 ### Current
 
+#### Blue Archive
+
+Playing since Global launch
+
+Server: Global
+
+Friend Code: AYVTWBOK
+
 #### Arknights
 
 Playing since Global launch
@@ -17,14 +25,6 @@ Playing since Global launch
 Server: Global Aurora
 
 ID: hdk5 67724563
-
-#### Blue Archive
-
-Playing since Global launch
-
-Server: Global
-
-Friend Code: AYVTWBOK
 
 ### Previous
 
