@@ -24,6 +24,8 @@ Playing since Global launch
 
 Server: Global
 
+Friend Code: AYVTWBOK
+
 ### Previous
 
 #### Alchemy Stars
